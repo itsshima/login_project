@@ -1,0 +1,38 @@
+* {
+  font-family: "Nunito", sans-serif;
+}
+
+.d {
+  width: 900px;
+  margin: 0 auto;
+}
+.l {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
+#t1 {
+  color: rgba(0, 0, 0, 0.553);
+}
+#d1 {
+  padding-top: 21px;
+}
+.i {
+  background-color: rgba(0, 0, 0, 0.126);
+  border: 0;
+  width: 270px;
+  height: 40px;
+  padding-left: 12px;
+}
+#f1 {
+  padding-left: 40px;
+}
+#d {
+  padding-left: 20px;
+}
+#b1 {
+  width: 70px;
+  height: 40px;
+  border-radius: 10px;
+  cursor: pointer;
+}
